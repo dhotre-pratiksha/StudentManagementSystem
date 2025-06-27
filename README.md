@@ -1,2 +1,2 @@
 # StudentManagementSystem
-A Java mini project using OOP and Collections Framework
+A Java mini project using OOP and Collections Framework.
